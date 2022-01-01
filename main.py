@@ -4,6 +4,9 @@ try:
     from pyfiglet import Figlet
 except:
     system('pip install pyshorteners pyfiglet')
+finally:
+    from pyshorteners import Shortener
+    from pyfiglet import Figlet
 from random import choice
 
 
