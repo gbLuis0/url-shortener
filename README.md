@@ -27,7 +27,7 @@ apt-get install git python
 git clone https://github.com/Spyware0/url-shortener
 ```
 
-## Acesso :folder:
+## Acesso :open_file_folder:
 ```shell script
 cd url-shortener
 python main.py
