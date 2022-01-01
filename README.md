@@ -14,6 +14,7 @@ API's que não necessitam de chave para o encurtamento:
 - [x] os.db
 
 > Disponível em CMD, PowerShell, Bash ✅
+
 > Caso use o termux, recomendo utilizar o da [f-droid](https://f-droid.org), por ser o mais atualizado.
 
 ## Requisitos
